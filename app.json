@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "برآورد ژئو",
+    "slug": "baravord-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/100.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A192F",
+        "foregroundImage": "./assets/100.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.alihoseini.baravordmobile"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "43c3deb2-11fa-4922-abec-c02ad1e261b0"
+      }
+    }
+  }
+}
