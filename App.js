@@ -7,7 +7,7 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle="dark-content" backgroundColor="#ffffff" />
       <WebView 
-        source={{ uri: 'https://baravord-admin.vercel.app' }} 
+        source={{ uri: 'https://baravord-geo-app.vercel.app' }} 
         style={styles.webview}
         scalesPageToFit={true}
         bounces={false}
